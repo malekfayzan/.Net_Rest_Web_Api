@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k+qy2t7dL2/vwyyQBz3L9DVRN54xRBo2FALArr7svuE=",
+  "Source": "web_api_sp",
+  "BasePath": "_content/web_api_sp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
